@@ -3,7 +3,11 @@ const app = express();
 const morgan = require('morgan');
 const mongoose = require('mongoose');
 const { ServerApiVersion } = require('mongodb');
+const cors = require('cors');
 require('dotenv/config');
+
+app.use(cors());
+app.options('*', cors());
 
 // Middleware
 app.use(express.json());
