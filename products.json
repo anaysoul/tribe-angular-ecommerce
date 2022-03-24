@@ -1,0 +1,340 @@
+[
+  {
+    "_id": {
+      "$oid": "5f15d8852a025143f9593a7c"
+    },
+    "image": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/271978497_292212919606576_6015026674998478623_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=GOFjzBhAjPMAX_B72Gz&_nc_oc=AQmsrNlbmYUc1KW_DYOLrgGoDg2dOyVe-xV1YnN6z2HVAriFQLXl5ni61mhGcA7ydAs&_nc_ht=scontent-lga3-1.xx&oh=00_AT-7FuuOrDVbHsD6o7FLU5lkuixMXRL6KSwEZHOm7BTy8g&oe=623DCCF8",
+    "brand": "Cold Press Juice",
+    "price": 8,
+    "rating": null,
+    "numReviews": null,
+    "isFeatured": false,
+    "name": "Green Latifah",
+    "description": "Spinach, Celery, Ginger, Lemon, Green Apple",
+    "category": {
+      "$oid": "623baad1653d7cd20a026904"
+    },
+    "reviews": [
+      {
+        "avatar": "https://pbs.twimg.com/profile_images/1760228143/Vetor-Johnny-Bravo-Vetorizado-Corel_400x400.jpg",
+        "name": "Johnny Bravo",
+        "review": "Amazing juice all around"
+      },
+      {
+        "avatar": "https://vignette.wikia.nocookie.net/asterix/images/3/3c/Asterix.png",
+        "name": "Asterix",
+        "review": "It's very delicious."
+      },
+      {
+        "avatar": "https://vignette.wikia.nocookie.net/looneytunes/images/7/7f/Coyote.gif",
+        "name": "Wild Coyote",
+        "review": "All my search for the perfect juice bar paid of. Thanks Tribe for suggesting this product to me"
+      }
+    ],
+    "countInStock": 8,
+    "__v": 0,
+    "richDescription": "Green Latifah description",
+    "images": [
+      "https://www.goodnature.com/wp-content/uploads/2020/07/spinach-green-juice-recipe-hero-1024x536.jpg",
+      "https://moorlandseater.com/wp-content/uploads/2018/07/apple-celery-lemon-kale-spinach-lemon-juice-DSC04806-2.jpg"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f15d9b3e520d44421ed8e9d"
+    },
+    "image": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/241527538_208142181346984_5685926323196565250_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=Bo-yrmayTkgAX_BQBeO&_nc_ht=scontent-lga3-1.xx&oh=00_AT9OOqfZ3XBkJolGu_-cN18lZpJyi2lxAt3hkkjEeY7ihA&oe=623CF411",
+    "brand": "Cold Press Juice",
+    "price": 8,
+    "rating": 3,
+    "numReviews": null,
+    "isFeatured": true,
+    "name": "Kale Mary",
+    "description": "Kale, Pineapple, Lemon, Green Apple, Cucumber\n",
+    "category": {
+      "$oid": "623baad1653d7cd20a026904"
+    },
+    "reviews": [
+      {
+        "avatar": "https://pbs.twimg.com/profile_images/1760228143/Vetor-Johnny-Bravo-Vetorizado-Corel_400x400.jpg",
+        "name": "Johnny Bravo",
+        "review": "Amazing juice all around"
+      },
+      {
+        "avatar": "https://vignette.wikia.nocookie.net/asterix/images/3/3c/Asterix.png",
+        "name": "Asterix",
+        "review": "It's very delicious."
+      },
+      {
+        "avatar": "https://vignette.wikia.nocookie.net/looneytunes/images/7/7f/Coyote.gif",
+        "name": "Wild Coyote",
+        "review": "All my search for the perfect juice bar paid of. Thanks Tribe for suggesting this product to me"
+      }
+    ],
+    "countInStock": 5,
+    "__v": 0,
+    "richDescription": "Kale Mary",
+    "images": [
+      "https://www.skinnytaste.com/wp-content/uploads/2020/03/Green-Apple-Lemon-Cucumber-Ginger-Smoothie-6.jpg",
+      "https://unpeeledjournal.com/wp-content/uploads/2020/12/50784951861_7f0bc99098_c.jpg"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f15da13e520d44421ed8e9e"
+    },
+    "image": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/273781801_309731214521413_5799931331461692833_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=qMhBk8DNW4QAX8GQiny&_nc_ht=scontent-lga3-1.xx&oh=00_AT9ounYG8HbQEcCPxuKSWEZ35tcDbWK3TbEJnaAb0RUvqg&oe=623D447C",
+    "brand": "Cold Press Juice",
+    "price": 8,
+    "rating": 4,
+    "numReviews": null,
+    "isFeatured": true,
+    "name": "Jungle Fever",
+    "description": "Carrot, Pineapple, Red Apple, Pear\n",
+    "category": {
+      "$oid": "623baad1653d7cd20a026904"
+    },
+    "reviews": [
+      {
+        "avatar": "https://pbs.twimg.com/profile_images/1760228143/Vetor-Johnny-Bravo-Vetorizado-Corel_400x400.jpg",
+        "name": "Johnny Bravo",
+        "review": "Amazing juice all around"
+      },
+      {
+        "avatar": "https://vignette.wikia.nocookie.net/asterix/images/3/3c/Asterix.png",
+        "name": "Asterix",
+        "review": "It's very delicious."
+      },
+      {
+        "avatar": "https://vignette.wikia.nocookie.net/looneytunes/images/7/7f/Coyote.gif",
+        "name": "Wild Coyote",
+        "review": "All my search for the perfect juice bar paid of. Thanks Tribe for suggesting this product to me"
+      }
+    ],
+    "countInStock": 2,
+    "__v": 0,
+    "richDescription": "<p>Jungle Fever</p>",
+    "images": [
+      "https://cdn1.foodviva.com/static-content/food-images/juice-recipes/pineapple-carrot-juice-recipe/pineapple-carrot-juice-recipe.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Xr4ozqbV5raqwaDx2CaqlvMWzMh8Sg9j6w&usqp=CAU"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f15da135420d44443ed8e9e"
+    },
+    "image": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/270824434_283454850482383_867739724475306341_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=CEhA1idJPcwAX_hn0ih&_nc_ht=scontent-lga3-1.xx&oh=00_AT80_sCkCZ32wsz5wFHCNLpNIuT-42SyrThPHyuF-6NmlQ&oe=623D15BD",
+    "brand": "Cold Press Juice",
+    "price": 8,
+    "rating": null,
+    "numReviews": null,
+    "isFeatured": true,
+    "name": "Get In the Water (Seasonal)",
+    "description": "Watermelon",
+    "category": {
+      "$oid": "623baad1653d7cd20a026904"
+    },
+    "reviews": [
+      {
+        "avatar": "https://pbs.twimg.com/profile_images/1760228143/Vetor-Johnny-Bravo-Vetorizado-Corel_400x400.jpg",
+        "name": "Johnny Bravo",
+        "review": "Amazing juice all around"
+      },
+      {
+        "avatar": "https://vignette.wikia.nocookie.net/asterix/images/3/3c/Asterix.png",
+        "name": "Asterix",
+        "review": "It's very delicious."
+      },
+      {
+        "avatar": "https://vignette.wikia.nocookie.net/looneytunes/images/7/7f/Coyote.gif",
+        "name": "Wild Coyote",
+        "review": "All my search for the perfect juice bar paid of. Thanks Tribe for suggesting this product to me"
+      }
+    ],
+    "countInStock": 2,
+    "__v": 0,
+    "images": [
+      "https://www.foodlovinfamily.com/wp-content/uploads/2017/06/Watermelon-Detox-Water-1-11.jpg",
+      "https://www.watermelon.org/wp-content/uploads/2020/06/watermelon-hydration-1024x576-1.jpg"
+    ],
+    "richDescription": "<p>Get In the Water (Seasonal)</p>"
+  },
+  {
+    "_id": {
+      "$oid": "5f15da135420d44456ed8e9e"
+    },
+    "image": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/241474414_208142284680307_8469679974383104866_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=ENTsGq9o3HkAX8iwIlz&_nc_ht=scontent-lga3-1.xx&oh=00_AT_Q7KvQHF2pPpkRIt8rk2raFK4qA1zM7SU1IqHJJuPteQ&oe=623C29C6",
+    "brand": "Cold Press Juice",
+    "price": 10,
+    "rating": null,
+    "numReviews": null,
+    "isFeatured": true,
+    "name": "Customized Cold Press Juice",
+    "description": "Customized Cold Press Juice",
+    "category": {
+      "$oid": "623baad1653d7cd20a026904"
+    },
+    "reviews": [
+      {
+        "avatar": "https://pbs.twimg.com/profile_images/1760228143/Vetor-Johnny-Bravo-Vetorizado-Corel_400x400.jpg",
+        "name": "Johnny Bravo",
+        "review": "Amazing juice all around"
+      },
+      {
+        "avatar": "https://vignette.wikia.nocookie.net/asterix/images/3/3c/Asterix.png",
+        "name": "Asterix",
+        "review": "It's very delicious."
+      },
+      {
+        "avatar": "https://vignette.wikia.nocookie.net/looneytunes/images/7/7f/Coyote.gif",
+        "name": "Wild Coyote",
+        "review": "All my search for the perfect juice bar paid of. Thanks Tribe for suggesting this product to me"
+      }
+    ],
+    "countInStock": 7,
+    "__v": 0,
+    "richDescription": "<p>Customized Cold Press Juice</p>",
+    "images": [
+      "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/250311793_242513374576531_6794240689410755078_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=ZJi-N41y384AX_T5FYg&_nc_ht=scontent-lga3-1.xx&oh=00_AT9emUdtXkW3Muhmv5au41Dno3Vo0dXxckRhSZqKsod0ZA&oe=62405337",
+      "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/241654023_211299407697928_6004883043426361450_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=jFriSeUKgakAX8HjTLg&_nc_ht=scontent-lga3-1.xx&oh=00_AT8F9IXPahzxd4hyLNAGTsL6ZNAqnrYNwFEon0jLugyqAQ&oe=62406767"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f68fd316170530b7e0afc54"
+    },
+    "image": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/271898836_289904879837380_5863436965268404964_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=1wrhYTiQZP8AX_akpZE&_nc_ht=scontent-lga3-1.xx&oh=00_AT9QUr12tjR62VhvSbqR0B7_Brnl0TgchS1b-m-zM5XvXw&oe=623DCFED",
+    "brand": "All is Well Immunity Shots",
+    "price": 5,
+    "rating": null,
+    "numReviews": null,
+    "isFeatured": false,
+    "name": "Woo-Tang",
+    "description": "Lemon, Ginger, Tumeric, Black Pepper, Cheyenne Pepper",
+    "category": {
+      "$oid": "623badef653d7cd20a026907"
+    },
+    "countInStock": 10,
+    "__v": 0,
+    "images": [
+      "https://res.cloudinary.com/hsxfx8igq/image/upload/t_16x9_recipe_image,f_auto/v1603104091/Ginger_Lemon_and_Cayenne_Shot_Recipe_nljtcw.jpg",
+      "https://www.befresh.ca/wrdp/wp-content/uploads/2018/01/Untitled-design-20.jpg"
+    ],
+    "richDescription": "<p>Woo-Tang</p>"
+  },
+  {
+    "_id": {
+      "$oid": "5f691406c7e42c1d374fee5c"
+    },
+    "image": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/274221116_310961991065002_6477990513099438169_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=a26aad&_nc_ohc=IdPO5y_sJCQAX80SLfg&_nc_ht=scontent-lga3-1.xx&oh=00_AT8UOHtsrz6_B5x2xrF10iJp4egASIJQzceA3_k9y7Yxjw&oe=623EECB9",
+    "brand": "All is Well Immunity Shots",
+    "price": 5,
+    "rating": null,
+    "numReviews": null,
+    "isFeatured": false,
+    "name": "Killa Beez",
+    "description": "Lemon, Turmeric, Honey",
+    "category": {
+      "$oid": "623badef653d7cd20a026907"
+    },
+    "countInStock": 8,
+    "__v": 0,
+    "richDescription": "<p>Killa Beez</p>",
+    "images": [
+      "https://s3.envato.com/files/344246731/_J7A2087.jpg",
+      "https://t4.ftcdn.net/jpg/03/99/10/41/360_F_399104196_KCPtwU3K4va2L2yeG8rrsKb4AcCo0P3B.jpg"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f9d37371575750024b1f462"
+    },
+    "richDescription": "<p>Tribe Aid</p>",
+    "image": "https://tastesbetterfromscratch.com/wp-content/uploads/2019/03/Strawberry-Lemonade-8-500x500.jpg",
+    "images": [
+      "https://moribyan.com/wp-content/uploads/2021/05/IMG_7687-scaled.jpg",
+      "https://www.dinneratthezoo.com/wp-content/uploads/2018/05/strawberry-lemonade-4.jpg"
+    ],
+    "brand": "Tribe Drinks 16oz",
+    "price": 3.5,
+    "rating": null,
+    "numReviews": null,
+    "isFeatured": false,
+    "name": "Tribe Aid",
+    "description": "Strawberry Lemonade",
+    "category": {
+      "$oid": "623badef653d7cd20a026907"
+    },
+    "countInStock": 6,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f9d5de284992b00247682b3"
+    },
+    "richDescription": "<p>Iced/Frozen Matcha</p>",
+    "image": "https://www.ohhowcivilized.com/wp-content/uploads/2019/07/0719-matcha-frappuccino-7.jpg",
+    "images": [
+      "https://images.heb.com/is/image/HEBGrocery/recipe-hm-large/frozen-matcha-latte-recipe.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/0d/59/74/a2/matcha-latte-frozen.jpg"
+    ],
+    "brand": "Tribe Drinks 16oz",
+    "price": 4,
+    "rating": null,
+    "numReviews": null,
+    "isFeatured": false,
+    "name": "Iced/Frozen Matcha",
+    "description": "Strawberry Add-in Available",
+    "category": {
+      "$oid": "623badef653d7cd20a026907"
+    },
+    "countInStock": 4,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f9d5ef084992b00247682b4"
+    },
+    "richDescription": "<p>MC Latte</p>",
+    "image": "https://i2.wp.com/bakingmischief.com/wp-content/uploads/2021/02/iced-chai-tea-latte-image-683x1024.jpg",
+    "images": [
+      "https://i0.wp.com/sweetlycakes.com/wp-content/uploads/2021/09/chaitealatte-12blog.jpg?ssl=1",
+      "https://i0.wp.com/sweetlycakes.com/wp-content/uploads/2021/09/chaitealatte-9blog.jpg?fit=1440%2C2160&ssl=1"
+    ],
+    "brand": "Tribe Drinks 16oz",
+    "price": 4,
+    "rating": null,
+    "numReviews": null,
+    "isFeatured": false,
+    "name": "MC Latte",
+    "description": "Chai, Black Tea, Nutmeg, Vanilla Latte served over ice\n",
+    "category": {
+      "$oid": "5f15d545f3a046427a1c26e2"
+    },
+    "countInStock": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fa5bf8d9791235c46678e15"
+    },
+    "richDescription": "<p>Public Lemony #1</p>",
+    "image": "https://www.playpartyplan.com/wp-content/uploads/2021/09/creamy-lemonade-7-of-10.jpg",
+    "images": [
+      "https://i1.wp.com/www.cocoandash.com/wp-content/uploads/2021/05/IMG_0519.jpg?fit=1530%2C2295&ssl=1",
+      "https://theviewfromgreatisland.com/wp-content/uploads/2021/08/creamy-lemonade-10.jpg"
+    ],
+    "brand": "Tribe Drinks 16oz",
+    "price": 4,
+    "rating": null,
+    "numReviews": null,
+    "isFeatured": true,
+    "name": "Public Lemony #1",
+    "description": "Creamy Lemonade (Dairy)\n",
+    "category": {
+      "$oid": "623badef653d7cd20a026907"
+    },
+    "countInStock": 12,
+    "__v": 0
+  }
+]
