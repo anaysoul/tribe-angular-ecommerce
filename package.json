@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/anaysoul/tribe-angular-ecommerce#readme",
   "dependencies": {
+    "dotenv": "^16.0.0",
     "express": "^4.17.3",
     "nodemon": "^2.0.15"
   }
