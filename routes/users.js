@@ -49,4 +49,38 @@ router.post('/', async (req, res) => {
   res.send(user);
 });
 
+// update user data
+router.put('/:id', async (req, res) => {
+  const userExist = await User.findById(req.params.id);
+  let newPassword;
+  if (req.body.password) {
+    newPassword = bcrypt.hashSync(req.body.password);
+  } else {
+    newPassword = userExist.passwordHash;
+  }
+  const user = await User.findByIdAndUpdate(
+    req.params.id,
+    {
+      name: req.body.name,
+      email: req.body.email,
+      passwordHash: newPassword,
+      phone: req.body.phone,
+      isAdmin: req.body.isAdmin,
+      street: req.body.street,
+      apartment: req.body.apartment,
+      city: req.body.city,
+      state: req.body.state,
+      zip: req.body.zip,
+      country: req.body.country,
+    },
+    { new: true }
+  );
+
+  if (!user) {
+    return res.status(404).send('The user cannot be updated!');
+  }
+
+  res.send(user);
+});
+
 module.exports = router;
